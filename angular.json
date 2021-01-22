@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "AngularJWTAuth"
+  "defaultProject": "AngularJWTAuth",
+  "cli": {
+    "analytics": false
+  }
 }
